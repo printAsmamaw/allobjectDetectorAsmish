@@ -1,0 +1,1 @@
+C:\Users\pc\Downloads\tensorflow_image_classification_gci-master\android\app\src\main\kotlin\com\example\tensorflow_image_classification_gci\MainActivity.kt
